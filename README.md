@@ -13,7 +13,7 @@ Se basará en la página HTML adjunta como ejemplo02, pero sustituirá el conten
 
 ### Prerequisites
 
-Estas son algunos de los programas que se utilizaron y sus extensiones.
+Estos son algunos de los programas que se utilizaron y sus extensiones.
 
 * Visual Studio Code
   ```sh
